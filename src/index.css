@@ -1,0 +1,91 @@
+
+/* .header-class{
+  display:flex;
+  background-color: aqua;
+  align-items:center;
+  justify-content: space-around;
+}
+.ul-class{
+  display:flex; */
+  /* justify-content:space-around; */
+  /* list-style:none;
+  padding:5px;
+}
+.li-class{margin-left:10px;padding:10px;}
+img{
+  width:40px;
+  margin:5px;
+}
+nav{
+  display:flex;
+  align-items: center;
+}
+.span-class{
+color:aqua;
+} */ 
+/* body{
+  margin: 0;
+    background-color: blue;
+
+}
+.div-class{
+  display:flex;
+  align-items: center;
+  background-color: aqua;
+}
+img {
+  width:40px;
+}
+main{
+  padding:6px 3px;
+  background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207);
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-position-x:right ;
+  background-position-y:center ;
+}
+li::marker{
+  color: brown;
+  font-size:4rem;
+} */
+/* header{
+  background-color: aqua;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+}
+header>img{
+  width:24px;
+  margin-right:7px;
+}
+header>h1{
+  font-size:0.9rem;
+  font-weight:500;
+}
+article.journal-entry{
+  display: flex;
+  align-items:center;
+}
+.main-image{
+width:100%;height:100%;object-fit:cover;}
+.main-image-container{
+  width:125px;
+  height:168px;
+  overflow:hidden;
+  border-radius: 5px;
+  margin:19px;
+} */
+/* body{
+  background-color: aqua;
+} */
+ /* button {
+    height: 100px;
+    width: 100px;
+    border: 3px solid white;
+    border-radius: 5px;
+    cursor: pointer;   
+    opacity: 0.1;
+}
+button.on {
+  opacity: 1;
+} */

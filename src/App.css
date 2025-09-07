@@ -1,0 +1,41 @@
+/* *{
+  margin:0;
+}
+img{
+  width:50px;
+}
+header{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:11px;
+  height:80px;
+  background-color: aqua;
+}
+form{
+  display:flex;
+  justify-content: center;
+  gap:12px;
+  margin:5px;
+}
+input{
+  border-radius: 6px;
+  border:1px solid red;
+  padding:9px 13px;
+  flex-grow:1;
+  min-width:150px;
+  max-width:400px;
+}
+button{
+background-color: black;
+color:white;
+border-radius:6px;
+border:none;
+}
+button::before{
+  content:'+';
+  margin-right:5px;
+  width:150px;
+  font-size:0.875rem;
+  font-weight:500;
+} */
